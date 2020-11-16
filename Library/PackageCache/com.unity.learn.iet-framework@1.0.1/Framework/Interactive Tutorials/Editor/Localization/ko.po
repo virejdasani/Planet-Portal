@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: Tue Aug 20 2019 02:33:26 GMT+0000 (Coordinated Universal Time)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: po-conv\n"
+"Language: ko\n"
+"Project-Id-Version: com.unity.learn.iet-framework@0.4.0-preview\n"
+
+msgid "Show Tutorials"
+msgstr "ほげえええ ko"

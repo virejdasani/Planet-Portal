@@ -1,0 +1,26 @@
+
+=== Mon Nov 16 12:04:01 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.collab-proxy@1.2.16
+  com.unity.ide.rider@1.1.4
+  com.unity.ide.vscode@1.2.2
+  com.unity.modules.androidjni@1.0.0
+  com.unity.modules.cloth@1.0.0
+  com.unity.modules.director@1.0.0
+  com.unity.modules.terrainphysics@1.0.0
+  com.unity.modules.tilemap@1.0.0
+  com.unity.modules.uielements@1.0.0
+  com.unity.modules.umbra@1.0.0
+  com.unity.modules.unityanalytics@1.0.0
+  com.unity.modules.vehicles@1.0.0
+  com.unity.modules.video@1.0.0
+  com.unity.modules.wind@1.0.0
+  com.unity.test-framework@1.1.18
+  com.unity.timeline@1.2.17
+The following packages were updated:
+  com.unity.probuilder from version 4.2.3 to 4.4.0
+  com.unity.textmeshpro from version 2.0.1 to 2.1.1
