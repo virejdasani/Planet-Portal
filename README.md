@@ -12,6 +12,6 @@ The final aim for the game is for it to be multiplayer and avalaible on all oper
 
 ## Contribute
 - Fork the repo, work on it and make a pull request.
-- Use Unity and C# only!
+- Use Unity (2019.4.14f1) and C# only!
 - We will review it within the day and get back to you.
 - Happy contributing!
