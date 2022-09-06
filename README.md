@@ -1,3 +1,6 @@
+Update (2022):
+Forgot this project existed... Another one in the abandoned projects pile i guess
+
 # Planet-Portal
 
 # The ULTIMATE and COMPLETELY Open Source Game!
